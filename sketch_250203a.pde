@@ -22,7 +22,35 @@ arc(280,487, 200,200, radians(288.5),radians(316));
 arc(440,460, 400,45, radians(196),radians(245));
 arc(120,445, 200,85, radians(315),radians(336));
 
-arc(300,300, 100,100, radians(0),radians(360));
+//mouth
+arc(313,203, 40,30, radians(240),radians(360));
+arc(313,203, 40,30, radians(0),radians(110));
 //arc(300,300, 100,100, radians(0),radians(360));
 //arc(300,300, 100,100, radians(0),radians(360));
-//arc(300,300, 100,100, radians(0),radians(360));
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
